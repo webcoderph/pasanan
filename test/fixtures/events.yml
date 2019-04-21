@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  chapter: MyString
+  where: MyString
+  when: 2019-04-21 15:11:08
+  description: MyText
+
+two:
+  chapter: MyString
+  where: MyString
+  when: 2019-04-21 15:11:08
+  description: MyText
